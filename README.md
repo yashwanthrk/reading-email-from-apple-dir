@@ -1,1 +1,1 @@
-# ec2_instance_ids_from_dir
+# reading mails via python
